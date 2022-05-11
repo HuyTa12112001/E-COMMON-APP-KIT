@@ -418,7 +418,7 @@ body {
   position: relative;
 }
 .product-star-list .fa-solid {
-  color: #FFC600;
+  color: red;
   margin-right: 4px;
   height: 10.63px;
   width: 11.57px;
